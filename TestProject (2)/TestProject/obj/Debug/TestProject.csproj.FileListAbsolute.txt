@@ -1,0 +1,27 @@
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\bin\Debug\TestProject.exe
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\bin\Debug\TestProject.pdb
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\bin\Debug\ko-KR\TestProject.resources.dll
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.LanguageResource.resources
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.MainForm.resources
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.LanguageResource.ko-KR.resources
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\ko-KR\TestProject.resources.dll
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.exe
+C:\Users\ISET-DA\Downloads\TestProject (2)\TestProject\obj\Debug\TestProject.pdb
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\bin\Debug\TestProject.exe
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\bin\Debug\TestProject.pdb
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\bin\Debug\ko-KR\TestProject.resources.dll
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.LanguageResource.resources
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.MainForm.resources
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.LanguageResource.ko-KR.resources
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\ko-KR\TestProject.resources.dll
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.exe
+C:\Users\최재영\Documents\카카오톡 받은 파일\MultiLanguage\MultiLanguage\TestProject (2)\TestProject\obj\Debug\TestProject.pdb
